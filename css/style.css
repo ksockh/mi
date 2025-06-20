@@ -1754,7 +1754,7 @@ header .close {
   /*con02 .aboutWrap*/
   #con02 .aboutWrap {
     padding: 6rem 1rem;
-    box-sizing: border-box;
+    /* box-sizing: border-box; */
   }
   /* con02 left aboutMe design */
   #con02 .left .aboutMe .design {
