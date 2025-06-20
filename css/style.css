@@ -450,9 +450,9 @@ header .close {
 /* con03 */
 #con03 {
   width: 100%;
-  height: 100vh;
+  /* height: 100vh; */
   position: relative;
-  padding-top: 50px;
+  /* padding-top: 50px; */
 }
 /*con03 bg  */
 #con03 .bg {
@@ -579,7 +579,7 @@ header .close {
 #con03 .profileBottom > li {
   width: 50%;
 
-  height: 150px;
+  /* height: 150px; */
   border: 2px solid #222;
   border-radius: 30px;
   padding: 1rem;
@@ -1565,7 +1565,7 @@ header .close {
   }
   /*con03 profileBottom  */
   #con03 .profileBottom > li {
-    height: 15vh;
+    /* height: 15vh; */
 
     padding: 0.5rem;
   }
@@ -1800,7 +1800,7 @@ header .close {
   }
   /*con03 profileBottom  */
   #con03 .profileBottom > li {
-    height: 15vh;
+    /* height: 15vh; */
 
     padding: 0.5rem;
   }
@@ -2120,7 +2120,7 @@ header .close {
   }
   /*con03 profileBottom  */
   #con03 .profileBottom > li {
-    height: 13vh;
+    /* height: 13vh; */
 
     padding: 0.5rem;
   }
@@ -3188,7 +3188,7 @@ header .close {
   #con03 .profileBottom > li {
     width: 90%;
 
-    height: 12vh;
+    /* height: 12vh; */
   }
 
   /*con03 profileBottom li p */
