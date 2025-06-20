@@ -1773,7 +1773,7 @@ header .close {
   /* con03 */
   #con03 {
     width: 100%;
-    height: 700px;
+    /* height: 700px; */
   }
   /*con03 profileTop*/
   #con03 .profileTop {
