@@ -721,7 +721,7 @@ header .close {
 /* con04 */
 #con04 {
   width: 100%;
-  height: 100vh;
+  /* height: 100vh; */
   position: relative;
 
   padding-top: 7rem;
@@ -779,6 +779,7 @@ header .close {
 #con04 .ilust01 > li img {
   width: 100%;
   height: 100%;
+  object-fit: cover;
 }
 /* con04 ilust01 li before 화살표 */
 #con04 .ilust01 > li::before {
@@ -829,13 +830,13 @@ header .close {
 }
 /* #con04 .ilust01 li 기울기 */
 #con04 .ilust01 > li.a {
-  transform: rotate(5deg);
+  transform: rotate(2deg);
 }
 #con04 .ilust01 > li.b {
-  transform: rotate(-5deg);
+  transform: rotate(-2deg);
 }
 #con04 .ilust01 > li.c {
-  transform: rotate(10deg);
+  transform: rotate(3deg);
 }
 
 /*con04 ilustModal*/
@@ -895,7 +896,7 @@ header .close {
 /* con05 */
 #con05 {
   width: 100%;
-  height: 100vh;
+  /* height: 100vh; */
 
   position: relative;
 }
@@ -1850,7 +1851,7 @@ header .close {
   }
   /* con05 */
   #con05 {
-    height: 100vh;
+    /* height: 100vh; */
   }
   /* con05 title01  */
   #con05 .title01 {
@@ -2150,7 +2151,7 @@ header .close {
     top: 10%;
   }
   #con04 {
-    height: 100vh;
+    /* height: 100vh; */
   }
   /* con04 illustration */
   #con04 .illustration {
@@ -3238,7 +3239,7 @@ header .close {
   }
   /* con05 */
   #con05 {
-    height: 80vh;
+    /* height: 80vh; */
   }
   /* con05 title01  */
   #con05 .title01 {
