@@ -254,7 +254,7 @@ header .close {
 /* con02 */
 #con02 {
   width: 100%;
-  height: 100vh;
+  /* height: 100vh; */
   padding-top: 3.5rem;
 
   box-sizing: border-box;
@@ -327,7 +327,7 @@ header .close {
 /*con02 left textBox   */
 #con02 .left .textBox {
   width: 95%;
-  height: 30vh;
+  /* height: 30vh; */
   border: 2px solid #222;
   padding: 1.5rem;
   box-sizing: border-box;
@@ -1476,7 +1476,7 @@ header .close {
   }
   /* con02 */
   #con02 {
-    height: 100vh;
+    /* height: 100vh; */
     padding-top: 0rem;
   }
   /*con02 .aboutWrap*/
@@ -1500,7 +1500,7 @@ header .close {
   #con02 .left .textBox {
     width: 100%;
     font-size: 1.8vw;
-    height: 25vw;
+    /* height: 25vw; */
   }
   /*con02 right imgBox   */
   #con02 .right .imgBox {
@@ -1749,7 +1749,7 @@ header .close {
   /* con02 */
   #con02 {
     width: 100%;
-    height: 80vh;
+    /* height: 80vh; */
   }
   /*con02 .aboutWrap*/
   #con02 .aboutWrap {
@@ -1765,7 +1765,7 @@ header .close {
   }
   /*con02 left textBox   */
   #con02 .left .textBox {
-    height: 24vw;
+    /* height: 24vw; */
   }
   #con02 .right .hello {
     left: -50px;
@@ -2003,7 +2003,7 @@ header .close {
 
   /* con02 */
   #con02 {
-    height: 150vw;
+    /* height: 150vw; */
   }
 
   #con02 .left .textBox .text {
@@ -2037,7 +2037,7 @@ header .close {
   }
   /* con02 .left .textBox  */
   #con02 .left .textBox {
-    height: 25vh;
+    /* height: 25vh; */
     font-size: 2vw;
     margin: 0px auto;
   }
@@ -2335,7 +2335,7 @@ header .close {
 
   /* con02 */
   #con02 {
-    height: 110vh;
+    /* height: 110vh; */
   }
   /* con02 aboutWrap left */
   #con02 .aboutWrap .left {
@@ -2357,7 +2357,7 @@ header .close {
   }
   /*con02 left textBox   */
   #con02 .left .textBox {
-    height: 40vw;
+    /* height: 40vw; */
   }
   /*con02 left textBox   */
   #con02 .left .textBox .text {
@@ -2607,7 +2607,7 @@ header .close {
 }
 @media (max-width: 550px) {
   #con02 {
-    height: 100vh;
+    /* height: 100vh; */
   }
   #con02 .left .aboutMe h2 {
     font-size: 13vw;
@@ -2721,7 +2721,7 @@ header .close {
     font-size: 2.5vw;
   }
   #con02 {
-    height: 95vh;
+    /* height: 95vh; */
   }
   #con02 .left .aboutMe h2 {
     font-size: 13vw;
@@ -2746,7 +2746,7 @@ header .close {
 }
 @media (max-width: 450px) {
   #con02 {
-    height: 85vh;
+    /* height: 85vh; */
   }
   /* con02 aboutWrap left */
   #con02 .aboutWrap .left {
@@ -2758,7 +2758,7 @@ header .close {
   }
   /*con02 left textBox   */
   #con02 .left .textBox {
-    height: 45vw;
+    /* height: 45vw; */
     margin-top: -20px;
   }
   /*con02 right imgBox   */
@@ -2877,7 +2877,7 @@ header .close {
   }
   /* con02 */
   #con02 {
-    height: 90vh;
+    /* height: 90vh; */
   }
   /*con02 .aboutWrap*/
   #con02 .aboutWrap {
@@ -2905,7 +2905,7 @@ header .close {
   #con02 .left .textBox {
     width: 100%;
     font-size: 3vw;
-    height: 50vw;
+    /* height: 50vw; */
     margin: 20px auto;
   }
   /*con02 right imgBox   */
@@ -3111,7 +3111,7 @@ header .close {
   }
   /* con02 */
   #con02 {
-    height: 87vh;
+    /* height: 87vh; */
   }
   /*con02 .aboutWrap*/
   #con02 .aboutWrap {
@@ -3142,7 +3142,7 @@ header .close {
   #con02 .left .textBox {
     width: 100%;
     font-size: 8vw;
-    height: 28vh;
+    /* height: 28vh; */
     margin-bottom: 3rem;
     padding: 1rem;
     line-height: 1;
